@@ -1,0 +1,6 @@
+This is a sample text file.
+It contains multiple lines with various characters.
+12345 is a number. $pecial characters are included too!
+
+Feel free to add more lines for testing.
+The purpose is to count vowels, consonants, and digits.

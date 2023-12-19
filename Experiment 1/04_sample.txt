@@ -1,0 +1,6 @@
+This is a sample text file.
+It contains multiple lines and words.
+Feel free to add more lines for testing.
+The purpose is to count characters, words, and lines.
+
+C program and Python script will analyze this file.
